@@ -3,3 +3,5 @@ y <- 3 + 2*x
 x
 y
 plot(x,y)
+
+mean(x)
